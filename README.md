@@ -1,6 +1,6 @@
 # hngen
 
-'''
+```sh
 hngen (Head Nonce Generator) is a CLI tool to find a nonce which hashes to a value beginning with a specified character string
 
 Usage: hngen [OPTIONS] --head <HEAD>
@@ -11,4 +11,4 @@ Options:
       --verbose            Instruct threads to print all hashes
   -h, --help               Print help
   -V, --version            Print version
-'''
+```

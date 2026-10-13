@@ -1,0 +1,8 @@
+Searching for 389cb6 (nonce 1168760)
+COMMAND: hngen -s 389cb6 -t <THREADS> --verbose
+
+32: 36s
+16: 33s
+8: 41s
+2: 2m16s
+1: not good probably
